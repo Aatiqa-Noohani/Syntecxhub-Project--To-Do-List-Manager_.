@@ -1,0 +1,41 @@
+[
+    {
+        "title": " Revise Algebra formulas",
+        "done": true,
+        "due_date": "2026-01-25",
+        "tags": [
+            "study",
+            "math",
+            "urgent"
+        ]
+    },
+    {
+        "title": " Morning exercise",
+        "done": false,
+        "due_date": "-----",
+        "tags": [
+            "health",
+            "daily"
+        ]
+    },
+    {
+        "title": " Complete Python OOP project",
+        "done": false,
+        "due_date": "2026-01-30",
+        "tags": [
+            "python",
+            "oop",
+            "project"
+        ]
+    },
+    {
+        "title": " Learn Machine Learning basics",
+        "done": false,
+        "due_date": "30-1-2026",
+        "tags": [
+            "ml",
+            "learning",
+            "long-term"
+        ]
+    }
+]
