@@ -8,7 +8,7 @@ intership task
  
  ▶ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/todo-list-manager.git
+git clone https://github.com/Aatiqa-Noohani/Syntecxhub-Project--To-Do-List-Manager_./tree/main
 
 2️⃣ Navigate to the File
 cd To-Do-ListManager_oop.py
